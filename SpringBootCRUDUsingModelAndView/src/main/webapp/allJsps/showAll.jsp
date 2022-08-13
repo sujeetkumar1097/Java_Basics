@@ -11,6 +11,7 @@
 <h1> Welcome to Show All Page</h1>
 <br><br>
 <a href="/create">Create</a><br><br>
+
 	<c:if test="${not empty laptops}">
 		<table border=1 align=center style="text-align:center">
 			<thead>

@@ -9,6 +9,7 @@ import org.hibernate.annotations.GeneratorType;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
+
 @Component
 @Entity
 //@Scope("prototype")

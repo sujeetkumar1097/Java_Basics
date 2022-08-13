@@ -14,6 +14,7 @@ import com.example.demo.pojo.Laptop;
 @Service
 public class ServiceLayer {
 	
+	
 	@Autowired
 	private Repositry repo; 
 	

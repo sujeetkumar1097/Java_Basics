@@ -15,6 +15,7 @@ import org.springframework.web.servlet.ModelAndView;
 import com.example.demo.pojo.Laptop;
 import com.example.demo.service.ServiceLayer;
 
+
 @Controller
 //@ResponseBody  //@ResponseBody is used to return the content as response body
 @RequestMapping("/")

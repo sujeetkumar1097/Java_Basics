@@ -7,6 +7,7 @@ import org.springframework.context.annotation.Scope;
 
 import com.example.demo.pojo.Laptop;
 
+
 @SpringBootApplication
 public class SpringMvcApplication {
 
